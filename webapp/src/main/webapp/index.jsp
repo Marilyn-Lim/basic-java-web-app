@@ -1,4 +1,4 @@
-<h1>Welcome to Marilyn's Tomcat webapp ever !</h1>
+<h1>Welcome to Marilyn's Tomcat webapp!</h1>
 
 <h2>Interesting things to do for today</h2>
 
